@@ -193,9 +193,32 @@ body {
   background-color: #444;
   color: #ddd;
 }
+#head a {
+  font-size: 13px;
+  padding: 10px 22px;
+  border-radius: 3px;
+  background-color: #0074d9;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+  font-family: "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+  line-height: 1em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: none;
+}
+#head a:hover,
+#head a:focus {
+  background-color: #006ece;
+  color: #f7f7f7;
+}
+#head a:active {
+  background-color: #0068c3;
+}
 h2 {
-  font-size: 38.4px;
-  font-size: 2.4rem;
+  font-size: 28.8px;
+  font-size: 1.8rem;
   text-rendering: optimizelegibility;
   font-weight: bold;
   margin: 0.75em 0;

@@ -1,1 +1,1 @@
-{"version":3,"file":"main.js","sourceRoot":"","sources":["/Users/bmz/Sites/personal/koonskitchen.com/assets/js/main.coffee"],"names":[],"mappings":"AAAA;AAAA,EAAA,OAAO,CAAC,GAAR,CAAY,cAAZ,CAAA,CAAA;AAAA","sourcesContent":["console.log 'hello there!'\n"]}
+{"version":3,"file":"main.js","sourceRoot":"","sources":["/Users/bz/GitHub/koonskitchen.com/assets/js/main.coffee"],"names":[],"mappings":"AAAA;AAAA,EAAA,OAAO,CAAC,GAAR,CAAY,cAAZ,CAAA,CAAA;AAAA","sourcesContent":["console.log 'hello there!'\n"]}
