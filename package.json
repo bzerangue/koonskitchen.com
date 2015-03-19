@@ -2,15 +2,15 @@
   "name": "-koons-kitchen",
   "description": "",
   "dependencies": {
-    "autoprefixer-stylus": "0.5.x",
-    "axis": "0.3.x",
-    "coffee-script": "1.8.x",
-    "css-pipeline": "0.2.x",
+    "autoprefixer-stylus": "^0.5.0",
+    "axis": "^0.3.0",
+    "coffee-script": "^1.8.0",
+    "css-pipeline": "^0.2.0",
     "jade": "1.x",
     "jeet": "^6.1.2",
-    "js-pipeline": "0.2.x",
+    "js-pipeline": "^0.2.0",
     "marked": "0.3.x",
-    "rupture": "0.6.x",
+    "rupture": "^0.6.1",
     "stylus": "0.49.x"
   }
 }
