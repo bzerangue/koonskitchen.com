@@ -187,11 +187,11 @@ body {
   font-size-adjust: auto;
 }
 html {
-  background-color: #444;
+  background-color: #ddd;
 }
 body {
-  background-color: #444;
-  color: #ddd;
+  background-color: #ddd;
+  color: #444;
 }
 #head a {
   font-size: 13px;
@@ -216,13 +216,14 @@ body {
 #head a:active {
   background-color: #0068c3;
 }
-h2 {
-  font-size: 28.8px;
-  font-size: 1.8rem;
-  text-rendering: optimizelegibility;
-  font-weight: bold;
-  margin: 0.75em 0;
-  line-height: 1.6em;
+h2#sitetitle {
+  font: 0/0 a;
+  text-shadow: none;
+  color: transparent;
+  background: url("../img/koonslogofinal.svg") no-repeat;
+  width: 194px;
+  height: 109px;
+  margin: 0 auto;
 }
 #container {
   *zoom: 1;
